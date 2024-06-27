@@ -65,7 +65,7 @@ The dataset used for this project contains information about customers, their su
 
 ## Source Data
 
-The dataset used in this project was sourced from [Kaggle's Telecom Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn). Ensure you download the dataset and place it in the appropriate directory within the project folder.
+The dataset used in this project was sourced from [Kaggle's Telecom Churn Dataset](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)). Ensure you download the dataset and place it in the appropriate directory within the project folder.
 
 ## Results and Evaluation
 
