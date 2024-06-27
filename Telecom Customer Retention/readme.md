@@ -87,10 +87,17 @@ Future enhancements for this project include:
 
 ## Acknowledgments/References
 
-- [Kaggle Telecom Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Kaggle](https://www.kaggle.com)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [DAS42 - Churn Prevention in Telecommunications](https://das42.com/thought-leadership/churn-prevention-in-telecommunications/)
+- [IEEE Xplore - Customer Churn Prediction](https://ieeexplore.ieee.org/abstract/document/8014605)
+- [Kaggle - CUSTOMER CHURN PREDICTION 📈](https://www.kaggle.com)
+- [Data World](https://www.dataworld.com/)
+- [365 Data Science](https://365datascience.com/)
+- [Towards Data Science](https://towardsdatascience.com)
+
+   
 
 ## License
 
