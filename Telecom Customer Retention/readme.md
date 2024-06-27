@@ -22,6 +22,7 @@ In the competitive telecommunications industry, customer churn poses a significa
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/churn-shield.git
+    git clone https://github.com/shanthibooshansubramanian/Portfolio.git
     ```
 2. Navigate to the project directory:
     ```bash
