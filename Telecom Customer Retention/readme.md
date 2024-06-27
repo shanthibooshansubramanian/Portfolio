@@ -101,4 +101,4 @@ Future enhancements for this project include:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the full license text (https://github.com/shanthibooshansubramanian/Portfolio/blob/main/LICENSE).
