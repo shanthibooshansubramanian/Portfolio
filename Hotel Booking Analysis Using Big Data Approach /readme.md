@@ -11,14 +11,14 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 ## Installation and Setup
 
 ## Codes and Resources Used
-Hadoop Distributed File System (HDFS) for data storage.
-Apache Hive for data organization and querying.
-Apache Spark for data processing and analysis.
-Apache Kafka for real-time data streaming.
-Apache NiFi for data ingestion.
+1. Hadoop Distributed File System (HDFS) for data storage.
+2. Apache Hive for data organization and querying.
+3. Apache Spark for data processing and analysis.
+4. Apache Kafka for real-time data streaming.
+5.  Apache NiFi for data ingestion.
 
-## Data
-### Source Data
+## Source Data
+
 The dataset used in this project includes detailed hotel booking records, comprising attributes such as hotel type, booking status, lead time, arrival date, stay duration, guest demographics, meal type, country of origin, market segment, distribution channel, previous cancellations, room type, and more. This rich dataset provides comprehensive insights into reservation dynamics and customer behavior.
 
 ### Data Processing and Analysis
