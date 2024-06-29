@@ -21,18 +21,15 @@ This Python project utilizes the OpenWeatherMap API to provide current weather i
 
 ## Installation
 
-To run this project, you need to have Python installed. It's recommended to use Anaconda Python for managing the environment and dependencies easily.
+The code for this app was created using PyCharm. Ensure the appropriate version of Python is installed. You may need to install the required packages in case the import step in the code fails.
 
-1. Install [Anaconda](https://www.anaconda.com/products/individual).
-2. Create a new environment:
-    ```sh
-    conda create -n weather-app python=3.8
-    conda activate weather-app
-    ```
+1. Ensure Python 3.8 or above is installed. You can download it from [python.org](https://www.python.org/downloads/).
+2. Install [PyCharm](https://www.jetbrains.com/pycharm/download/) (recommended for development).
 3. Install the required packages:
     ```sh
     pip install requests
     ```
+
 ##  Usage
 
 To use the Weather App:
@@ -70,10 +67,10 @@ The application provides accurate and up-to-date weather information based on us
 
 ## Future Work
 
-Future enhancements may include:
-- Adding support for more weather parameters.
-- Implementing user authentication for API access.
-- Enhancing error handling and user input validation.
+Future improvements could include:
+- Adding a graphical user interface (GUI) for better user interaction.
+- Allowing users to save their favorite locations.
+- Providing weather forecasts for upcoming days.
 
 ## Contributing
 
@@ -85,5 +82,4 @@ This code was developed as part of learning by Shanthibooshan Subramanian. If yo
 
 Special thanks to the following resources:
 - [Python](https://www.python.org/)
-- [Analytical Vidhya](https://www.analyticsvidhya.com/)
 - [OpenWeatherMap](https://openweathermap.org/)
