@@ -14,6 +14,11 @@ Each project leverages datasets sourced from platforms like Kaggle, enriching an
 
 Explore the documentation, visualizations, and methodologies presented here to gain insights into the transformative potential of data science in solving real-world challenges.
 
+## Telcom Customer Churn Prediction
+
+ChurnShield is a predictive analytics project focused on telecom customer retention. It leverages machine learning models to predict customer churn based on historical data and customer behavior patterns. The project aims to help telecom companies proactively identify customers at risk of leaving and implement targeted retention strategies to reduce churn rates.
+
+**Git Path:** https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Telecom%20Customer%20Retention/readme.md
 
 
 ## License
