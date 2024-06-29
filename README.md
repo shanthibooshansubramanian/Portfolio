@@ -29,6 +29,12 @@ Transforming Hotel Booking Insights is a big data project that utilizes advanced
 
 [Git Path: Hotel Booking Analysis Using Big Data Approach](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Hotel%20Booking%20Analysis%20Using%20Big%20Data%20Approach/README.md)
 
+## Heart Watch: A Data-Driven Approach to Heart Failure Prevention
+
+"Heart Watch: A Data-Driven Approach to Heart Failure Prevention" addresses the urgent challenge of combating cardiovascular diseases, which annually claim approximately 17 million lives worldwide. Focusing specifically on heart failure, this project utilizes electronic medical records for precise analysis and prediction. By amalgamating five independent heart-related datasets, selected for their comprehensive information and potential to uncover intricate patterns, the project harnesses predictive analytics to enhance global heart health and mitigate fatalities.
+
+[Git Path: Heart Watch- Approach to Heart Failure Prevention](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Heart%20Watch%3A%20A%20Data-Driven%20Approach%20to%20Heart%20Failure%20Prevention/README.md)
+
 ## Contributing
 
 Feel free to contribute by submitting pull requests for improvements or suggestions on GitHub. Your contributions are valuable in enhancing this project.
