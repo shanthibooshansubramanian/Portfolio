@@ -4,11 +4,11 @@ Embarking on a captivating journey into the skies, this project aims to capture 
 
 ## Visualization and Presentation
 
-**Dashboard:** An internal dashboard to explore insights into airline crashes with strategic visualizations.
-**Executive Summary:** A high-level overview of findings and insights.
-**Blog Post:** An engaging narrative that intertwines facts and questions to stimulate interest in airline safety.
-**Infographic:** A visually appealing summary for the general public.
-**Video Presentation:** A dynamic and informative presentation for a broad audience.
+- **Dashboard:** An internal dashboard to explore insights into airline crashes with strategic visualizations.
+- **Executive Summary:** A high-level overview of findings and insights.
+- **Blog Post:** An engaging narrative that intertwines facts and questions to stimulate interest in airline safety.
+- **Infographic:** A visually appealing summary for the general public.
+- **Video Presentation:** A dynamic and informative presentation for a broad audience.
 
 ## Dataset
 
