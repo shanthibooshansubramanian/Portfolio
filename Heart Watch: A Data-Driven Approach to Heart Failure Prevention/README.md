@@ -22,11 +22,9 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 2. **Set up Anaconda environment:**
-- Install Anaconda from [Anaconda's website](https://www.anaconda.com/products/distribution).
 3. **Install dependencies:**
 4. **Download the dataset:**
-- Download the heart failure dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
-- Place the dataset (`heart.csv`) in the project directory.
+
 
 ## Usage
 
@@ -48,7 +46,8 @@ The dataset used contains 319,795 entries and 18 columns, covering demographic a
 
 ## Source Data
 
-
+- Download the heart failure dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
+- Place the dataset (`heart.csv`) in the project directory.
 
 ## Model Training and Evaluation
 
