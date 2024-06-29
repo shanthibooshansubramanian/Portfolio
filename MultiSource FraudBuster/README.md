@@ -10,7 +10,7 @@ This project focuses on detecting fraudulent credit card transactions using vari
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Data](#data)
-5. [Source Data](#source-data
+5. [Source Data](#source-data)
 6. [Milestone1](#Milestone1)
 7. [Milestone2](#Milestone2)
 8. [Milestone3](#Milestone3)
