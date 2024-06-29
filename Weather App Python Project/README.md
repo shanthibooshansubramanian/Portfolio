@@ -5,11 +5,34 @@
 
 This Python project utilizes the OpenWeatherMap API to provide current weather information based on user input. It supports weather lookup by Zip Code or City Name and State Code combination. The application also allows users to choose temperature units (Fahrenheit, Celsius, or Kelvin) for displaying weather details.
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Data](#data)
+5. [Source Data](#source-data)
+6. [Model Training and Evaluation](#model-training-and-evaluation)
+7. [Results](#results)
+8. [Future Work](#future-work)
+9. [Contributing](#contributing)
+10. [Acknowledgments](#acknowledgments)
+
+
 ## Installation
 
-To run this application locally, follow these steps:
-1. Clone the repository:
+To run this project, you need to have Python installed. It's recommended to use Anaconda Python for managing the environment and dependencies easily.
 
+1. Install [Anaconda](https://www.anaconda.com/products/individual).
+2. Create a new environment:
+    ```sh
+    conda create -n weather-app python=3.8
+    conda activate weather-app
+    ```
+3. Install the required packages:
+    ```sh
+    pip install requests
+    ```
 ##  Usage
 
 To use the Weather App:
@@ -38,6 +61,12 @@ The project does not involve machine learning model training or evaluation. It f
 ## Results
 
 The application provides accurate and up-to-date weather information based on user input. It supports multiple units for temperature conversion and displays comprehensive weather details.
+- Current temperature in Fahrenheit, Celsius, or Kelvin
+- Minimum and maximum temperatures
+- Pressure
+- Humidity
+- Cloud cover description
+- City and country name
 
 ## Future Work
 
@@ -49,3 +78,12 @@ Future enhancements may include:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+## Acknowledgments
+
+This code was developed as part of learning by Shanthibooshan Subramanian. If you plan to use it, please provide appropriate citations to the dataset and other pages you might have referred to for your learning process.
+
+Special thanks to the following resources:
+- [Python](https://www.python.org/)
+- [Analytical Vidhya](https://www.analyticsvidhya.com/)
+- [OpenWeatherMap](https://openweathermap.org/)
