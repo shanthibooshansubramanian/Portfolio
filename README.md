@@ -3,7 +3,7 @@ Welcome to the repository showcasing my journey through diverse data science pro
 
 Using Python and R, I've explored methodologies such as statistical analysis and machine learning algorithms to address complex data problems. PowerBI has been instrumental in creating interactive visualizations and insightful dashboards, while presentations in audio and video formats have been crafted to effectively communicate findings to diverse audiences.
 
-![image](https://github.com/shanthibooshansubramanian/Portfolio/assets/173968838/de66db92-8c73-4382-9ba0-03f180dfe95b)
+         ![image](https://github.com/shanthibooshansubramanian/Portfolio/assets/173968838/de66db92-8c73-4382-9ba0-03f180dfe95b)
 
 
 Within this repository, you'll discover:
