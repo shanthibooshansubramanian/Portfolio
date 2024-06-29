@@ -92,7 +92,7 @@ Special thanks to the following resources:
 - [Python](https://www.python.org/)
 - [FraudLabs Pro](https://www.fraudlabspro.com/)
 - [DataCamp](https://app.datacamp.com/)
-- [JPMorgan Synthetic Payments Data](https://www.jpmorgan.com/synthetic-data/payments-data-for-fraud-detection)
+- [Synthetic Payments Data]((https://datahub.io/machine-learning/creditcard/datapackage.json')
 
 
 
