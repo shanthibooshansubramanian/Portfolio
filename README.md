@@ -20,6 +20,13 @@ ChurnShield is a predictive analytics project focused on telecom customer retent
 
 **Git Path:** https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Telecom%20Customer%20Retention/readme.md
 
+## Contributing
+
+Feel free to contribute by submitting pull requests for improvements or suggestions on GitHub. Your contributions are valuable in enhancing this project.
+
+## Feedback and Contact
+
+I welcome any feedback or questions you may have. Please feel free to contact me at shanthibooshan@gmail.com. Your input helps me improve and refine this project further.
 
 ## License
 
