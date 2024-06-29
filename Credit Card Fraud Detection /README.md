@@ -19,12 +19,10 @@ Credit card fraud is a critical issue impacting organizations, consumers, banks,
     
 ## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+1. **Install Anaconda:** Download and install Anaconda from Anaconda's official website.
+2. **Open Anaconda Navigator:** Launch Anaconda Navigator from your application menu or command line.
+3. **Open Jupyter Notebook:** Click on the Jupyter Notebook icon in the Anaconda Navigator to open it in your web browser.
+4. **Create or Open a Notebook:** Create a new notebook or open an existing one to start working with Python.
 
 ## Usage
 
@@ -54,6 +52,7 @@ Based on the models trained:
 - Random Forest Classifier achieved 97% accuracy, outperforming the Logistic Regression model.
 
 ## Future Work
+
 Future enhancements to the project may include:
 
 - Improving model robustness against imbalanced datasets.
@@ -62,7 +61,6 @@ Future enhancements to the project may include:
 
 ## Acknowledgments
 
-## Acknowledgments
 - [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection) for providing the Credit Card Transactions Fraud Detection Dataset.
 - The [Python](https://www.python.org/) community for the powerful libraries used in data analysis and machine learning.
 - [Analytical Vidhya](https://www.analyticsvidhya.com/) for insightful resources and tutorials on machine learning techniques.
