@@ -46,8 +46,7 @@ The dataset used contains 319,795 entries and 18 columns, covering demographic a
 
 ## Source Data
 
-- Download the heart failure dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction).
-- Place the dataset (`heart.csv`) in the project directory.
+The dataset used for this project is sourced from [Heart Failure Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Model Training and Evaluation
 
