@@ -25,10 +25,8 @@ The code for this app was created using PyCharm. Ensure the appropriate version 
 
 1. Ensure Python 3.8 or above is installed. You can download it from [python.org](https://www.python.org/downloads/).
 2. Install [PyCharm](https://www.jetbrains.com/pycharm/download/) (recommended for development).
-3. Install the required packages:
-    ```sh
-    pip install requests
-    ```
+3. Install the required packages
+
 
 ##  Usage
 
