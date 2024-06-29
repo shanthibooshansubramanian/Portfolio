@@ -20,10 +20,13 @@
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
-2. **Set up Anaconda environment:**
-3. **Install dependencies:**
-4. **Download the dataset:**
+1. **Clone the repository:** Clone the GitHub repository to your local machine using Git.
+
+2. **Set up Anaconda environment:** Create and activate a new Anaconda environment with Python 3.8.
+
+3. **Install dependencies:** Install the required Python packages listed in requirements.txt.
+
+4. **Download the dataset:** Download the dataset required for the project and place it in the designated directory 
 
 
 ## Usage
@@ -31,14 +34,14 @@ To run this project locally, follow these steps:
 To reproduce the analysis and results:
 
 1. **Run the Jupyter notebooks:**
-- Navigate to and open the Jupyter notebooks 
+    - Navigate to and open the Jupyter notebooks 
 
 2. **Follow the notebooks for EDA and modeling:**
-- Exploratory Data Analysis (EDA) to understand data patterns.
-- Model training and evaluation using Logistic Regression, Decision Trees, and Random Forest.
+    - Exploratory Data Analysis (EDA) to understand data patterns.
+    - Model training and evaluation using Logistic Regression, Decision Trees, and Random Forest.
 
 3. **Explore results:**
-- Review the generated plots, metrics, and insights from the notebooks.
+    - Review the generated plots, metrics, and insights from the notebooks.
 
 ## Data
 
