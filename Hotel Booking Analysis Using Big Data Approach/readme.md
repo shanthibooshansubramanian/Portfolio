@@ -6,6 +6,17 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 
 ## Table of Contents
 
+1. [Project Overview](#project-overview)
+2. [Installation and Setup](#installation-and-setup)
+3. [Codes and Resources Used](#codes-and-resources-used)
+4. [Python Packages Used](#python-packages-used)
+5. [Data](#data)
+6. [Source Data](#source-data)
+7. [Data Processing and Analysis](#Data Processing and Analysis)
+8. [Results and Evaluation](#results-and-evaluation)
+9. [Future Work](#future-work)
+10. [Acknowledgments/References](#acknowledgmentsreferences)
+11. [License](#license)
 
 
 ## Installation and Setup
