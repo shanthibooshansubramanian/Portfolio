@@ -96,8 +96,6 @@ Future enhancements for this project include:
 - [365 Data Science](https://365datascience.com/)
 - [Towards Data Science](https://towardsdatascience.com)
 
-   
+  
 
-## License
 
-This project is licensed under the MIT License. See the full license text (https://github.com/shanthibooshansubramanian/Portfolio/blob/main/LICENSE).
