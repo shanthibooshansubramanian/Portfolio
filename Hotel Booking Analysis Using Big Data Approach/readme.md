@@ -10,10 +10,6 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 
 ## Installation and Setup
 
-# Bellevue Big Data Class on Google Cloud
-
-## Installation Summary
-
 1. **Sign up for Google Cloud**
    - Visit [Google Cloud website](https://cloud.google.com/).
    - Click **Get Started for Free**.
@@ -40,13 +36,12 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 
 Remember to manage your Google Cloud credits and shut down instances when not in use.
 
-
 ## Codes and Resources Used
 1. Hadoop Distributed File System (HDFS) for data storage.
 2. Apache Hive for data organization and querying.
 3. Apache Spark for data processing and analysis.
 4. Apache Kafka for real-time data streaming.
-5.  Apache NiFi for data ingestion.
+5. Apache NiFi for data ingestion.
 
 ## Source Data
 
