@@ -6,7 +6,7 @@ Credit card fraud is a critical issue impacting organizations, consumers, banks,
 
 ## Table of Contents
 
-1. [Overview](#Project-Overview)
+1. [Project Overview](#Project-Overview)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Data](#data)
@@ -14,8 +14,7 @@ Credit card fraud is a critical issue impacting organizations, consumers, banks,
 6. [Model Training and Evaluation](#model-training-and-evaluation)
 7. [Results](#results)
 8. [Future Work](#future-work)
-9. [Contributing](#contributing)
-10. [Acknowledgments](#acknowledgments)
+9. [Acknowledgments](#acknowledgments)
     
 ## Installation
 
