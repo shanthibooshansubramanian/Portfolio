@@ -16,9 +16,9 @@ To use the Weather App:
 
 1. Run the application:
 2. Choose from the following options:
-- Enter 1 to lookup weather by Zip Code.
-- Enter 2 to lookup weather by City Name and State Code.
-- Enter 3 to exit the application.
+    - Enter 1 to lookup weather by Zip Code.
+    - Enter 2 to lookup weather by City Name and State Code.
+    - Enter 3 to exit the application.
 3. Follow the prompts to enter the required information (Zip Code, City Name, State Code).
 4. Select temperature units (F, C, K) when prompted to view weather details in Fahrenheit, Celsius, or Kelvin.
 5. The application will display current weather conditions including temperature, pressure, humidity, cloud cover, and more.
