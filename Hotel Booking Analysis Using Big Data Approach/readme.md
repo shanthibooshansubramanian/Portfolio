@@ -48,9 +48,13 @@ Remember to manage your Google Cloud credits and shut down instances when not in
 4. Apache Kafka for real-time data streaming.
 5. Apache NiFi for data ingestion.
 
-## Source Data
+## Data
 
 The dataset used in this project includes detailed hotel booking records, comprising attributes such as hotel type, booking status, lead time, arrival date, stay duration, guest demographics, meal type, country of origin, market segment, distribution channel, previous cancellations, room type, and more. This rich dataset provides comprehensive insights into reservation dynamics and customer behavior.
+
+## Source Data
+
+The dataset used in this project was sourced from [Kaggle's Hotel Bookings Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).Ensure you download the dataset and place it in the appropriate directory within the project folder.
 
 ## Data Processing and Analysis
 
