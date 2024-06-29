@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on detecting fraudulent credit card transactions using various data sources and machine learning techniques. The goal is to build an efficient fraud detection system that can identify and prevent fraudulent activities with high accuracy.
+This project focuses on detecting fraudulent credit card transactions using various data sources and machine learning techniques. The goal is to build an efficient fraud detection system that can identify and prevent fraudulent activities with high accuracy. By integrating data from CSV files, web sources, and APIs, we aim to create a robust dataset that enhances the fraud detection model's performance. Additionally, visualizations were created to explore trends and patterns in fraud detection, providing insights into the underlying data and helping to improve the detection system. The project is divided into several milestones, each focusing on different aspects of data preparation, transformation, and analysis to ensure a comprehensive approach to fraud detection.
 
 ## Table of Contents
 
