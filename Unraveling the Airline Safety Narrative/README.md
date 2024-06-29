@@ -1,6 +1,19 @@
 # Data Presentation and Visualization: Unraveling the Airline Safety Narrative
 
+# Project Overview
+
 Embarking on a captivating journey into the skies, this project aims to capture the essence of air travel through fascinating facts and compelling questions. Highlighting the sheer magnitude of daily flights and the rich history of aviation, "Aerosafety Insights" sets the stage for a data-driven exploration into airline safety. The dashboard delves into historical facts, dispels myths, and provides an in-depth understanding of aviation safety using a primary dataset of 56 global airlines.
+
+## Table of Contents
+
+- [Project Overview](#Project-Overview)
+- [Visualization and Presentation](#visualization-and-presentation)
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+- [Future Enhancements](#future-enhancements)
+- [Acknowledgement](#acknowledgement)
 
 ## Visualization and Presentation
 
@@ -16,7 +29,7 @@ The datasets for this project were meticulously extracted from multiple sources,
 
 ## Installation
 
-To create visualizations, PowerBI was used, and presentations were developed using PowerPoint.
+To create visualizations, PowerBI must be installed. Presentations were developed using PowerPoint.
 
 ## Usage
 
@@ -50,3 +63,6 @@ This project was developed as part of a learning exercise by Shanthibooshan Subr
 - [Accidents and Fatalities Per Year](https://docs.google.com/spreadsheets/d/1SDp7p1y6m7N5xD5_fpOkYOrJvd68V7iy6etXy2cetb8/edit#gid=1448957446)
 - [Airline Safety Data](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
 - [Fatality Analysis Reporting System](https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2020/National/)
+
+
+
