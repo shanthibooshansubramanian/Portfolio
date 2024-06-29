@@ -10,6 +10,37 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 
 ## Installation and Setup
 
+# Bellevue Big Data Class on Google Cloud
+
+## Installation Summary
+
+1. **Sign up for Google Cloud**
+   - Visit [Google Cloud website](https://cloud.google.com/).
+   - Click **Get Started for Free**.
+   - Follow the prompts to create your account and get $300 in credits.
+
+2. **Create SSH Key**
+   - Generate SSH key:
+     - macOS: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+     - Windows: Use PuTTYgen to generate keys.
+
+3. **Add SSH Key to Google Cloud**
+   - Upload your public key to Google Cloud Console -> Compute Engine -> Metadata.
+
+4. **Set up Ubuntu Instance**
+   - Create Ubuntu 22.04 LTS instance with specified configurations.
+
+5. **Run Setup Script**
+   - Clone repository: `git clone https://github.com/bellevue-university/dsc650-infra.git`
+   - Run setup: `cd dsc650-infra && sudo ./setup.sh`
+
+6. **Start Big Data Software**
+   - Navigate to relevant directories (`hadoop-hive-spark-hbase`, `kafka`, `solr`, `nifi`).
+   - Start services using Docker Compose: `cd <directory-name> && docker-compose up -d`
+
+Remember to manage your Google Cloud credits and shut down instances when not in use.
+
+
 ## Codes and Resources Used
 1. Hadoop Distributed File System (HDFS) for data storage.
 2. Apache Hive for data organization and querying.
