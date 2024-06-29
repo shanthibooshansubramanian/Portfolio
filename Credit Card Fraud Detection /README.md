@@ -26,6 +26,14 @@ To run this project locally, follow these steps:
    git clone https://github.com/your_username/your_repository.git
    cd your_repository
 
+## Usage
+
+To use the project, follow these steps:
+
+1. Prepare your dataset according to the guidelines in the Data section.
+2. Train and evaluate the models as described in Model Training and Evaluation.
+3. Analyze the results obtained in Results and plan Future Work accordingly.
+
 ## Data
 
 The dataset used in this project consists of simulated credit card transactions from January 2019 to December 2020, covering 1000 customers and 800 merchants.
