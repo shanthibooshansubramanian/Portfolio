@@ -40,7 +40,7 @@ The dataset used in this project consists of simulated credit card transactions 
 
 ## Source Data
 
-The dataset used for this project is sourced from Credit Card Transactions Fraud Detection Dataset | Kaggle.
+The dataset used for this project is sourced from [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ## Model Training and Evaluation
 
@@ -62,4 +62,7 @@ Future enhancements to the project may include:
 
 ## Acknowledgments
 
-Mention any acknowledgments here, such as libraries or individuals whose code or work has been used or inspired.
+## Acknowledgments
+- [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection) for providing the Credit Card Transactions Fraud Detection Dataset.
+- The [Python](https://www.python.org/) community for the powerful libraries used in data analysis and machine learning.
+- [Analytical Vidhya](https://www.analyticsvidhya.com/) for insightful resources and tutorials on machine learning techniques.
