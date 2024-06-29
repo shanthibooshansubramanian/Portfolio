@@ -26,11 +26,7 @@ The hotel industry is rapidly evolving, with Big Data playing a transformative r
 4. **Set up Ubuntu Instance**
    - Create Ubuntu 22.04 LTS instance with specified configurations.
 
-5. **Run Setup Script**
-   - Clone repository: `git clone https://github.com/bellevue-university/dsc650-infra.git`
-   - Run setup: `cd dsc650-infra && sudo ./setup.sh`
-
-6. **Start Big Data Software**
+5. **Start Big Data Software**
    - Navigate to relevant directories (`hadoop-hive-spark-hbase`, `kafka`, `solr`, `nifi`).
    - Start services using Docker Compose: `cd <directory-name> && docker-compose up -d`
 
