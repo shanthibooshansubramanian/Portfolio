@@ -10,10 +10,15 @@ This project focuses on detecting fraudulent credit card transactions using vari
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Data](#data)
-5. [Source Data](#source-data)
-6. [Future Work](#future-work)
-7. [Contributing](#contributing)
-8. [Acknowledgments](#acknowledgments)
+5. [Source Data](#source-data
+6. [Milestone1](#Milestone1)
+7. [Milestone2](#Milestone2)
+8. [Milestone3](#Milestone3)
+9. [Milestone4](#Milestone4)
+10. [Milestone5](#Milestone5)
+11. [Future Work](#future-work)
+12. [Contributing](#contributing)
+13. [Acknowledgments](#acknowledgments)
 
     
 ## Installation
@@ -47,30 +52,25 @@ The project utilizes several data sources related to credit card fraud detection
 - **Web**: [ Synthetic Payments Data](https://datahub.io/machine-learning/creditcard/datapackage.json')
   - Data representing transactions from a subject-centric view with the goal of identifying fraudulent transactions. This data contains a variety of transaction types representing normal activities and abnormal/fraudulent activities introduced with predefined probabilities.
 
-## Milestone 1
+## Milestone 1: Data Preparation and Integration
 
-### Accomplishments and Data Interpretation
+Integrated data from CSV files, web sources, and APIs to create a unified dataset for fraud detection.
 
-The three data sources provided are all related to fraud detection in financial transactions. The data sources include the FraudLabs Pro API and Fraud Detection dataset CSV files. The credit card information in the CSV file can be used as input for the FraudLabs Pro API to screen for fraudulent orders.
+## Milestone 2: Data Transformation and Cleaning (Flat File Source)
 
-The Fraud Detection dataset contains anonymized credit card transaction data, including the transaction amount, timestamp, and various features such as merchant ID, cardholder information, and location. This information can be used to train a machine learning model to predict whether a transaction is fraudulent based on patterns and correlations in the data. All three datasets contain information that can be used to detect potential fraud, such as transaction details, customer information, merchant information, and indicators of fraudulent activity.
+Performed data cleaning and transformation on the CSV file, addressing missing values, formatting issues, and ensuring data consistency.
 
-The FraudLabs Pro API provides an automated fraud screening solution that analyzes various aspects of an order such as geolocation, IP address, email address, and credit card information to determine if it is a legitimate order or not. By integrating the machine learning model trained on the Fraud Detection dataset into the FraudLabs Pro API, the screening process can be improved in terms of accuracy and efficiency.
+## Milestone 3: Data Transformation and Cleaning (Website Source)
 
-### Steps to Accomplish Milestone 1
+Fetched, cleaned, and transformed credit card data from a web source, standardizing formats and handling duplicates.
 
-1. Explore the FraudLabs Pro API documentation to understand its capabilities and limitations.
-2. Examine the credit card CSV files to ensure they do not contain sensitive information such as cardholder names or billing addresses. Remove these fields if they exist to ensure privacy.
-3. Import the Fraud Detection dataset CSV files into Python.
-4. Write code to iterate through each row of the file and use the FraudLabs Pro API to screen each order for fraud.
-5. Make API calls to the FraudLabs Pro API and analyze the responses to determine if an order is legitimate or not.
-6. Use statistical and machine learning techniques to analyze the data and identify patterns or anomalies that may indicate fraudulent activity.
-7. Use visualization techniques to better understand the data and identify trends or patterns.
+## Milestone 4: Data Transformation and Cleaning (API Source)
 
-### Ethical Implications
+Interfaced with the FraudLabs Pro API for real-time fraud validation, and cleaned and formatted the API response data.
 
-- The potential for false positives or false negatives: Balancing the need for fraud prevention with the need to avoid rejecting legitimate orders can be challenging.
-- Quality of the data: Data cleaning and preprocessing may be necessary to remove outliers or errors that could negatively impact the accuracy of the analysis. The synthetic dataset may not accurately represent real-world transactions, which could limit the effectiveness of any fraud detection methods developed using this dataset.
+## Milestone 5: Merging Data and Storing in Database/Visualizing Data
+
+Merged the cleaned datasets into a SQLite database and created visualizations to explore trends and patterns in fraud detection.
 
 ## Future Work
 
