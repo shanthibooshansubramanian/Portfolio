@@ -21,13 +21,13 @@ Explore the documentation, visualizations, and methodologies presented here to g
 
 ChurnShield is a predictive analytics project focused on telecom customer retention. It leverages machine learning models to predict customer churn based on historical data and customer behavior patterns. The project aims to help telecom companies proactively identify customers at risk of leaving and implement targeted retention strategies to reduce churn rates.
 
-**Git Path:** https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Telecom%20Customer%20Retention/readme.md
+[Git Path: Telecom Churn Prediction](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Telecom%20Customer%20Retention/readme.md)
 
 ## Hotel Booking Analysis Using Big Data Approach
 
 Transforming Hotel Booking Insights is a big data project aimed at analyzing and optimizing hotel booking processes. It utilizes large-scale data analytics to understand booking trends, customer preferences, and pricing strategies in the hospitality industry. The project focuses on enhancing customer experience and operational efficiency through data-driven insights.
 
-[Hotel Booking Analysis Using Big Data Approach](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Hotel%20Booking%20Analysis%20Using%20Big%20Data%20Approach/README.md)
+[Git Path: Hotel Booking Analysis Using Big Data Approach](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Hotel%20Booking%20Analysis%20Using%20Big%20Data%20Approach/README.md)
 
 ## Contributing
 
