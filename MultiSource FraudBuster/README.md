@@ -44,7 +44,7 @@ The project utilizes several data sources related to credit card fraud detection
 - **CSV File**: [PaySim Synthetic Dataset on Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
   - PaySim uses aggregated data from the private dataset to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behavior to evaluate the performance of fraud detection methods.
 
-- **Web**: [JPMorgan Synthetic Payments Data](https://www.jpmorgan.com/synthetic-data/payments-data-for-fraud-detection)
+- **Web**: [ Synthetic Payments Data](https://datahub.io/machine-learning/creditcard/datapackage.json')
   - Data representing transactions from a subject-centric view with the goal of identifying fraudulent transactions. This data contains a variety of transaction types representing normal activities and abnormal/fraudulent activities introduced with predefined probabilities.
 
 ## Milestone 1
