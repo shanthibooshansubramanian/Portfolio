@@ -40,10 +40,10 @@ The dataset used in this project includes detailed hotel booking records, compri
 
 
 ## Acknowledgments/References
-Kaggle
-365 Data Science
-Towards Data Science
-Analytics Vidhya
-Machine Learning Mastery
-Journal of Big Data
-SOEG Jobs
+  - [Kaggle](https://www.kaggle.com)
+  - [365 Data Science](https://365datascience.com/)
+  - [Python Plain English](https://python.plainenglish.io/)
+  - [Journal of Big Data - Springer](https://journalofbigdata.springeropen.com/)
+  - [Towards Data Science](https://towardsdatascience.com/)
+  - [Analytics Vidhya](https://www.analyticsvidhya.com/)
+  - [Machine Learning Mastery](https://machinelearningmastery.com/)
