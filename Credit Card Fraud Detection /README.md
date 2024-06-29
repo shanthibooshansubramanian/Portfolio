@@ -50,15 +50,15 @@ The project employs Logistic Regression and Random Forest Classifier models for 
 
 Based on the models trained:
 
-Logistic Regression Model achieved 92% accuracy.
-Random Forest Classifier achieved 97% accuracy, outperforming the Logistic Regression model.
+- Logistic Regression Model achieved 92% accuracy.
+- Random Forest Classifier achieved 97% accuracy, outperforming the Logistic Regression model.
 
 ## Future Work
 Future enhancements to the project may include:
 
-Improving model robustness against imbalanced datasets.
-Implementing real-time fraud detection capabilities.
-Exploring ensemble methods for model improvement.
+- Improving model robustness against imbalanced datasets.
+- Implementing real-time fraud detection capabilities.
+- Exploring ensemble methods for model improvement.
 
 ## Acknowledgments
 
