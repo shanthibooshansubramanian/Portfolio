@@ -1,4 +1,4 @@
-# Data Sceinece Project Portfolio
+# Data Sceinece Projects Portfolio
 Welcome to the repository showcasing my journey through diverse data science projects, each focusing on unique problem areas and employing various tools and frameworks. From predictive analytics to exploratory data analysis, these projects harness the power of Python, R, and PowerBI to tackle a range of challenges, aiming to derive actionable insights and solutions.
 
 Using Python and R, I've explored methodologies such as statistical analysis and machine learning algorithms to address complex data problems. PowerBI has been instrumental in creating interactive visualizations and insightful dashboards, while presentations in audio and video formats have been crafted to effectively communicate findings to diverse audiences.
