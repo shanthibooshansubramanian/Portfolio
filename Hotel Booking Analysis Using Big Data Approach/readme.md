@@ -54,14 +54,14 @@ Remember to manage your Google Cloud credits and shut down instances when not in
 
 The dataset used in this project includes detailed hotel booking records, comprising attributes such as hotel type, booking status, lead time, arrival date, stay duration, guest demographics, meal type, country of origin, market segment, distribution channel, previous cancellations, room type, and more. This rich dataset provides comprehensive insights into reservation dynamics and customer behavior.
 
-### Data Processing and Analysis
+## Data Processing and Analysis
 - **Data Ingestion with Apache NiFi:** Collect data from various booking channels in real-time.
 - **Data Storage in HDFS:** Store ingested data in a scalable and reliable manner.
 - **Data Organization with Apache Hive:** Structure data for easy querying and analysis.
 - **Data Processing with Apache Spark:** Clean, transform, and analyze data to extract actionable insights.
 - **Real-Time Data Streaming with Apache Kafka:** Ensure continuous data flow for up-to-date analytics.
 
-### Results and Evaluation
+## Results and Evaluation
 - Predictive models trained using logistic regression achieved an accuracy of approximately 64.07%.
 - Analysis of booking patterns revealed insights into guest behavior, booking lead times, and cancellation trends.
 
