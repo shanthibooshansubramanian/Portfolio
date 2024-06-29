@@ -15,7 +15,6 @@ In the competitive telecommunications industry, customer churn poses a significa
 7. [Results and Evaluation](#results-and-evaluation)
 8. [Future Work](#future-work)
 9. [Acknowledgments/References](#acknowledgmentsreferences)
-10. [License](#license)
 
 ## Installation and Setup
 
