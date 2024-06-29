@@ -25,7 +25,7 @@ ChurnShield is a predictive analytics project focused on telecom customer retent
 
 ## Hotel Booking Analysis Using Big Data Approach
 
-Transforming Hotel Booking Insights is a big data project aimed at analyzing and optimizing hotel booking processes. It utilizes large-scale data analytics to understand booking trends, customer preferences, and pricing strategies in the hospitality industry. The project focuses on enhancing customer experience and operational efficiency through data-driven insights.
+Transforming Hotel Booking Insights is a big data project that utilizes advanced technologies to analyze and optimize hotel booking processes. It employs large-scale data analytics and big data technologies to delve into booking trends, customer preferences, and pricing strategies in the hospitality industry. The project aims to enhance customer experience and operational efficiency through comprehensive data-driven insights.
 
 [Git Path: Hotel Booking Analysis Using Big Data Approach](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Hotel%20Booking%20Analysis%20Using%20Big%20Data%20Approach/README.md)
 
