@@ -57,7 +57,7 @@ This Python project utilizes the OpenWeatherMap API to provide current weather i
 
 Credit card fraud is a major issue for organizations, consumers, banks, and merchants, causing financial losses and damaging trust. This project aims to develop a robust system using machine learning and data mining techniques to detect and prevent fraudulent transactions. By employing Logistic Regression and Random Forest Classifier models, the system analyzes purchase data to identify inconsistencies and swiftly detect fraud. The project's success is measured by the accuracy of fraud detection, ensuring a reliable solution to this critical problem.
 
-[Git Path:Data Mining - Credit Card Fraud Detection](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Credit%20Card%20Fraud%20Detection/README.md))
+[Git Path: Data Mining - Credit Card Fraud Detection](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Credit%20Card%20Fraud%20Detection/README.md))
 
 ## Contributing
 
