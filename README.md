@@ -41,7 +41,11 @@ This project focuses on detecting fraudulent credit card transactions using vari
 
 [Git Path: Mulitsource Fraud Buster](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/MultiSource%20FraudBuster/README.md)
 
-## Heart Watch: Multisource Fraud Buster
+## Unraveling the Airline Safety Narrative
+
+"Aerosafety Insights" delves into the essence of air travel by exploring historical facts and debunking myths about airline safety. Using a primary dataset of 56 global airlines, the project employs various data presentation and visualization methods to provide a comprehensive understanding of aviation safety. Key components include an internal dashboard with strategic visualizations, an executive summary of findings, an engaging blog post, a visually appealing infographic for the public, and a dynamic video presentation. This multifaceted approach aims to inform and captivate audiences about the safety of air travel.
+
+[Git Path: Unravelling the Airline Safety Narrative](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Unraveling%20the%20Airline%20Safety%20Narrative/README.md)
 
 ## Contributing
 
