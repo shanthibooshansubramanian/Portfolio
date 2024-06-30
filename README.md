@@ -35,7 +35,7 @@ Transforming Hotel Booking Insights is a big data project that utilizes advanced
 
 [Git Path: Heart Watch- Approach to Heart Failure Prevention](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Heart%20Watch%3A%20A%20Data-Driven%20Approach%20to%20Heart%20Failure%20Prevention/README.md)
 
-## Heart Watch: Multisource Fraud Buster
+## Multisource Fraud Buster
 
 This project focuses on detecting fraudulent credit card transactions using various data sources and machine learning techniques. The goal is to build an efficient fraud detection system that can identify and prevent fraudulent activities with high accuracy. By integrating data from CSV files, web sources, and APIs, we aim to create a robust dataset that enhances the fraud detection model's performance. Additionally, visualizations were created to explore trends and patterns in fraud detection, providing insights into the underlying data and helping to improve the detection system. The project is divided into several milestones, each focusing on different aspects of data preparation, transformation, and analysis to ensure a comprehensive approach to fraud detection.
 
