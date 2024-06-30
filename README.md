@@ -47,6 +47,18 @@ This project focuses on detecting fraudulent credit card transactions using vari
 
 [Git Path: Unravelling the Airline Safety Narrative](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Unraveling%20the%20Airline%20Safety%20Narrative/README.md)
 
+## Weather App Python Project
+
+This Python project utilizes the OpenWeatherMap API to provide current weather information based on user input. It supports weather lookup by Zip Code or City Name and State Code combination. The application also allows users to choose temperature units (Fahrenheit, Celsius, or Kelvin) for displaying weather details. This project enhances the user experience by offering flexibility in how weather data is presented and understood.
+
+[Git Path: Weather App Python ](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Weather%20App%20Python%20Project/README.md)
+
+## Data Mining - Credit Card Fraud Detection 
+
+Credit card fraud is a major issue for organizations, consumers, banks, and merchants, causing financial losses and damaging trust. This project aims to develop a robust system using machine learning and data mining techniques to detect and prevent fraudulent transactions. By employing Logistic Regression and Random Forest Classifier models, the system analyzes purchase data to identify inconsistencies and swiftly detect fraud. The project's success is measured by the accuracy of fraud detection, ensuring a reliable solution to this critical problem.
+
+[Git Path:Data Mining - Credit Card Fraud Detection](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Credit%20Card%20Fraud%20Detection/README.md))
+
 ## Contributing
 
 Feel free to contribute by submitting pull requests for improvements or suggestions on GitHub. Your contributions are valuable in enhancing this project.
