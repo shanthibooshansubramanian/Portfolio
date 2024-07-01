@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Project
+# Fraud Lens: Exploratory Data Analysis of Credit Card Fraud
 
 ## Project Overview
 
