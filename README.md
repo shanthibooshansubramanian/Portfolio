@@ -53,11 +53,17 @@ This Python project utilizes the OpenWeatherMap API to provide current weather i
 
 [Git Path: Weather App Python ](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Weather%20App%20Python%20Project/README.md)
 
-## Data Mining - Credit Card Fraud Detection 
+## Safeguarding Credit Transactions and Mitigation Risks  
 
 Credit card fraud is a major issue for organizations, consumers, banks, and merchants, causing financial losses and damaging trust. This project aims to develop a robust system using machine learning and data mining techniques to detect and prevent fraudulent transactions. By employing Logistic Regression and Random Forest Classifier models, the system analyzes purchase data to identify inconsistencies and swiftly detect fraud. The project's success is measured by the accuracy of fraud detection, ensuring a reliable solution to this critical problem.
 
-[Git Path: Data Mining - Credit Card Fraud Detection](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Credit%20Card%20Fraud%20Detection/README.md))
+[Git Path: Safeguarding Credit Transactions and Mitigation Risks](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Safeguarding%20Credit%20Transactions%20and%20Mitigation%20Risks/README.md)
+
+## Fraud Lens: Exploratory Data Analysis of Credit Card Fraud 
+
+This project leverages Exploratory Data Analysis (EDA) to uncover key patterns and trends in credit card fraud data. We will explore the distribution of fraudulent transactions, identify correlations between features, and detect geographical and behavioral patterns. By analyzing these aspects, we aim to enhance our understanding of fraud indicators and support the development of more effective detection strategies.
+
+[Git Path: Fraud Lens: Exploratory Data Analysis of Credit Card Fraud](https://github.com/shanthibooshansubramanian/Portfolio/edit/main/Fraud%20Lens%3A%20Exploratory%20Data%20Analysis%20of%20Credit%20Card%20Fraud/README.md)
 
 ## Contributing
 
