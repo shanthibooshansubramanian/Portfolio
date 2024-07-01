@@ -1,8 +1,8 @@
-# Credit Card Fraud Detection Project
+# Safeguarding Credit Transactions and Mitigation Risks  
 
 ## Project Overview
 
-Credit card fraud is a critical issue impacting organizations, consumers, banks, and merchants. This project focuses on developing a robust credit card fraud detection system using machine learning techniques to swiftly identify and prevent fraudulent transactions.
+Credit card fraud is a major issue for organizations, consumers, banks, and merchants, causing financial losses and damaging trust. This project aims to develop a robust system using machine learning and data mining techniques to detect and prevent fraudulent transactions. By employing Logistic Regression and Random Forest Classifier models, the system analyzes purchase data to identify inconsistencies and swiftly detect fraud. The project's success is measured by the accuracy of fraud detection, ensuring a reliable solution to this critical problem.
 
 ## Table of Contents
 
