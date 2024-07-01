@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Credit card fraud is a critical issue impacting organizations, consumers, banks, and merchants. This project focuses on developing a robust credit card fraud detection system using machine learning techniques to swiftly identify and prevent fraudulent transactions.
+This project leverages Exploratory Data Analysis (EDA) to uncover key patterns and trends in credit card fraud data. We will explore the distribution of fraudulent transactions, identify correlations between features, and detect geographical and behavioral patterns. By analyzing these aspects, we aim to enhance our understanding of fraud indicators and support the development of more effective detection strategies.
 
 ## Table of Contents
 
