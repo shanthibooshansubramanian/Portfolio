@@ -8,44 +8,21 @@ In the competitive telecommunications industry, customer churn poses a significa
 
 1. [Project Overview](#project-overview)
 2. [Installation and Setup](#installation-and-setup)
-3. [Codes and Resources Used](#codes-and-resources-used)
-4. [Python Packages Used](#python-packages-used)
-5. [Data](#data)
-6. [Source Data](#source-data)
-7. [Results and Evaluation](#results-and-evaluation)
-8. [Future Work](#future-work)
-9. [Acknowledgments/References](#acknowledgmentsreferences)
+3. [Python Packages Used](#python-packages-used)
+4. [Data](#data)
+5. [Source Data](#source-data)
+6. [Results and Evaluation](#results-and-evaluation)
+7. [Future Work](#future-work)
+8. [Acknowledgments/References](#acknowledgmentsreferences)
 
 ## Installation and Setup
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/churn-shield.git
-    git clone https://github.com/shanthibooshansubramanian/Portfolio.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd churn-shield
-    ```
-3. Create a virtual environment and activate it:
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-4. Install required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-5. Run the Jupyter notebook to execute the analysis:
-    ```bash
-    jupyter notebook Churn_Shield_Analysis.ipynb
+1. **Install Anaconda:** Download and install Anaconda from Anaconda's official website.
+2. **Open Anaconda Navigator:** Launch Anaconda Navigator from your application menu or command line.
+3. **Open Jupyter Notebook:** Click on the Jupyter Notebook icon in the Anaconda Navigator to open it in your web browser.
+4. **Create or Open a Notebook:** Create a new notebook or open an existing one to start working with Python.
     ```
 
-## Codes and Resources Used
-
-- **Jupyter Notebook**: Used for developing and documenting the analysis process.
-- **Python**: The primary programming language for the project.
-- **Git**: For version control and collaboration.
 
 ## Python Packages Used
 
