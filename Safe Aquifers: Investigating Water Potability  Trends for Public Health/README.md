@@ -37,7 +37,7 @@ The following Python packages are used in this project:
 ### Source Data
 The dataset used in this project can be accessed on Kaggle and includes water quality metrics for 3,276 different water samples. Each sample is assessed for various parameters such as pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity. The dataset also includes a binary target variable indicating water potability.
 
-- [Kaggle Dataset](https://www.kaggle.com/datasets)
+- [Kaggle Dataset](https://www.kaggle.com/code/nimapourmoradi/water-potability/input))
 
 ## Results and Evaluation
 The project evaluated several machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting Classifier. Key results include:
