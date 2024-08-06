@@ -1,5 +1,4 @@
-# Water Potability Prediction
-
+# Safe Aquifers: Investigating Water Potability Trends for Public Health
 
 ## Project Overview
 This project aims to develop predictive models for assessing the potability of water sources based on historical data and various water quality parameters. The goal is to help stakeholders make informed decisions to ensure access to safe drinking water. The project utilizes machine learning techniques to analyze water quality data and predict whether the water is potable.
