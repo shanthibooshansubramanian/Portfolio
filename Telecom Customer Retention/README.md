@@ -21,9 +21,7 @@ In the competitive telecommunications industry, customer churn poses a significa
 2. **Open Anaconda Navigator:** Launch Anaconda Navigator from your application menu or command line.
 3. **Open Jupyter Notebook:** Click on the Jupyter Notebook icon in the Anaconda Navigator to open it in your web browser.
 4. **Create or Open a Notebook:** Create a new notebook or open an existing one to start working with Python.
-    ```
-
-
+   
 ## Python Packages Used
 
 - pandas
