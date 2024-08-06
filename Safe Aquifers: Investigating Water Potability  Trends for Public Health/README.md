@@ -38,9 +38,6 @@ The dataset used in this project can be accessed on Kaggle and includes water qu
 ### Source Data
 The dataset used in this project was sourced from [Kaggle's Safe Acquifiers Dataset](https://www.kaggle.com/code/nimapourmoradi/water-potability/input)). Ensure you download the dataset and place it in the appropriate directory within the project folder.
 
-The dataset used in this project was sourced from [Kaggle's Telecom Churn Dataset](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)). Ensure you download the dataset and place it in the appropriate directory within the project folder.
-
-
 ## Results and Evaluation
 The project evaluated several machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting Classifier. Key results include:
 
