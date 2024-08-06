@@ -15,33 +15,10 @@ This project aims to develop predictive models for assessing the potability of w
 
 ## Installation and Setup
 
-To run the code for this project, follow these steps:
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/water-potability-prediction.git
-    cd water-potability-prediction
-    ```
-
-2. **Create a Virtual Environment**:
-    ```bash
-    python -m venv env
-    ```
-
-3. **Activate the Virtual Environment**:
-    - On Windows:
-        ```bash
-        .\env\Scripts\activate
-        ```
-    - On macOS/Linux:
-        ```bash
-        source env/bin/activate
-        ```
-
-4. **Install Required Packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. **Install Anaconda:** Download and install Anaconda from Anaconda's official website.
+2. **Open Anaconda Navigator:** Launch Anaconda Navigator from your application menu or command line.
+3. **Open Jupyter Notebook:** Click on the Jupyter Notebook icon in the Anaconda Navigator to open it in your web browser.
+4. **Create or Open a Notebook:** Create a new notebook or open an existing one to start working with Python.
 
 ## Python Packages Used
 The following Python packages are used in this project:
