@@ -36,15 +36,18 @@
 
 ## Data
 
-The dataset used for this project consists of tweets collected from Twitter. Key features include:
-- Tweet text
-- User information (e.g., username, follower count)
-- Timestamp
-- Geolocation (if available)
+The dataset used for this term project can be accessed on Kaggle and includes 74,682 records for training and 1,000 records for validation. Each record represents a tweet categorized into different sentiment classes. The dataset comprises the following key variables:
+
+- Tweet_ID: A unique identifier for each tweet.
+- Entity: The source or context of the tweet, such as a game or brand name.
+- Sentiment: The sentiment classification of the tweet (e.g., Positive, Negative, Neutral, or Irrelevant).
+- Tweet_content: The actual text of the tweet, which serves as the primary input for sentiment analysis.
+- 
+This dataset includes labeled tweets that will be used for training and validating sentiment analysis models.
 
 ## Source Data
 
-Tweets were collected using the [Tweepy](https://www.tweepy.org/) library, which interacts with the Twitter API. Ensure you have API keys and access tokens to retrieve tweets.
+The dataset used in this project was sourced from Kaggle's Safe Acquifiers Dataset). Ensure you download the dataset and place it in the appropriate directory within the project folder.
 
 ## Results and Evaluation
 
