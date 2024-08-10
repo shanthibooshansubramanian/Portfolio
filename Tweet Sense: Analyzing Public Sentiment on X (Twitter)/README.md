@@ -54,14 +54,14 @@ The dataset used in this project was sourced from Kaggle's Safe Acquifiers Datas
 The comprehensive evaluation confirmed that the models performed reliably, achieving strong results across all key metrics. This demonstrates their effectiveness in classification tasks and supports their deployment in real-world applications. Continued refinement and enhancement of the models could lead to even better performance, addressing any potential limitations identified during the evaluation.
 
 ### Key Findings:
-The models achieved impressive performance metrics, including high accuracy, precision, recall, and F1-scores. This reflects their strong capability in making accurate predictions and handling various data scenarios effectively. The results highlight the models' robustness and suitability for the intended classification tasks.
+The LinearSVC model was the most effective for sentiment analysis, showing high accuracy and performance after hyperparameter tuning. It successfully addressed class imbalance and sentiment differentiation. Future work should refine the model further and explore advanced techniques to improve accuracy and handle language diversity.
 
 ### Model Performance:
-The models showed high accuracy and precision, strong recall, and balanced F1-scores. Hyperparameter tuning enhanced their effectiveness, demonstrating reliable performance across various data scenarios.
+The LinearSVC model performed best with an accuracy of 89%, excelling across all sentiment categories. Multinomial Naive Bayes and Logistic Regression also showed strong results, while Bernoulli Naive Bayes performed well in specific areas but had room for improvement.
 
 ## Future Work
 
-Future work could involve incorporating additional features to enhance model input, experimenting with different hyperparameter settings to optimize performance, and exploring advanced ensemble methods. These steps may lead to improvements in model accuracy and generalization. Additionally, continuous monitoring and updating of the models based on new data and feedback can help maintain their relevance and effectiveness over time.
+Future work will include integrating advanced models like LSTM and BERT to better handle sarcasm and emojis, expanding the dataset for improved accuracy, and developing scalable infrastructure for real-time sentiment analysis.
 
 ## Acknowledgments/References
 
