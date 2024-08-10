@@ -65,8 +65,6 @@ Future work could involve incorporating additional features to enhance model inp
 
 ## Acknowledgments/References
 
-## Acknowledgments/References
-
 - [Kaggle](https://www.kaggle.com)
 - [365 Data Science](https://365datascience.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
