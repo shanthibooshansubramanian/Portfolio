@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-"Heart Watch: A Data-Driven Approach to Heart Failure Prevention" aims to leverage electronic medical records and advanced machine learning techniques to predict and prevent heart failure.
+"Heart Watch: A Data-Driven Approach to Heart Failure Prevention" aims to leverage electronic medical records and advanced machine learning techniques to predict and prevent heart failure. By analyzing a comprehensive dataset of patient records, including demographic information, medical history, and vital signs, the project seeks to identify key risk factors and patterns associated with heart failure. This initiative represents a significant step towards harnessing data-driven insights to enhance cardiovascular health and patient care.
+
 
 ## Table of Contents
 
