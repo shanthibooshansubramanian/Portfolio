@@ -65,9 +65,14 @@ Future work could involve incorporating additional features to enhance model inp
 
 ## Acknowledgments/References
 
-- [Tweepy](https://www.tweepy.org/)
-- [TextBlob](https://textblob.readthedocs.io/en/dev/)
-- [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
-- [NLTK](https://www.nltk.org/)
-- [Machine Learning Mastery - Sentiment Analysis](https://machinelearningmastery.com/sentiment-analysis/)
-- [Kaggle - Sentiment Analysis](https://www.kaggle.com)
+## Acknowledgments/References
+
+- [Kaggle](https://www.kaggle.com)
+- [365 Data Science](https://365datascience.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/x-twitter-sentiment-analysis-a-nlp-use-case-for-beginners/)
+- [Techsalerator](https://www.techsalerator.com/post/top-x-twitter-sentiment-data-providers)
+- [Medium - X (Twitter) Sentiment Analysis](https://medium.com/@ubaidhaina/x-twitter-sentiment-analysis-05decd00a29f)
+- [ResearchGate - X (Twitter) Sentiment Analysis](https://www.researchgate.net/publication/358439871_X_Twitter_Sentiment_Analysis_using_Natural_Language_Processing)
+- [Twitter](https://twitter.com)
+
