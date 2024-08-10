@@ -47,9 +47,7 @@ This dataset includes labeled tweets that will be used for training and validati
 
 ## Source Data
 
-The dataset used in this project was sourced from Kaggle's [Kaggle's Telecom Churn Dataset](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)) Ensure you download the dataset and place it in the appropriate directory within the project folder.
-
-[Kaggle's Twitter Sentimet Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?resource=download&select=twitter_validation.csv))
+The dataset used in this project was sourced from Kaggle's [Kaggle's Twitter Sentimet Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?resource=download&select=twitter_validation.csv)) Ensure you download the dataset and place it in the appropriate directory within the project folder.
 
 ## Results and Evaluation
 
