@@ -23,6 +23,18 @@ ChurnShield is a predictive analytics project focused on telecom customer retent
 
 [Git Path: Telecom Churn Prediction](https://github.com/shanthibooshansubramanian/Portfolio/blob/main/Telecom%20Customer%20Retention/readme.md)
 
+## Safe Aquifers: Investigating Water Potability Trends for Public Health
+
+This project aims to develop predictive models for assessing the potability of water sources based on historical data and various water quality parameters. The goal is to help stakeholders make informed decisions to ensure access to safe drinking water. The project utilizes machine learning techniques to analyze water quality data and predict whether the water is potable.
+
+[Git Path: Safe Acquifers - Investigating Water Potability Trends for Public Health ](https://github.com/shanthibooshansubramanian/Portfolio/tree/main/Safe%20Aquifers%3A%20Investigating%20Water%20Potability%20%20Trends%20for%20Public%20Health)
+
+## Tweet Sense: Sentiment Analysis of Tweets Using Natural Language Processing
+
+"Tweet Sense" aims to analyze the sentiment of tweets using advanced Natural Language Processing (NLP) techniques. By applying machine learning models, this project identifies the sentiment behind tweets—whether positive, negative, or neutral. This analysis provides insights into public opinion, brand perception, and trends on social media platforms.
+
+[Git Path: Tweet Sense - Sentiment Analysis of Tweets Using Natural Language Processing ](https://github.com/shanthibooshansubramanian/Portfolio/tree/main/Tweet%20Sense%3A%20Analyzing%20Public%20Sentiment%20on%20X%20(Twitter))
+
 ## Hotel Booking Analysis Using Big Data Approach
 
 Transforming Hotel Booking Insights is a big data project that utilizes advanced technologies to analyze and optimize hotel booking processes. It employs large-scale data analytics and big data technologies to delve into booking trends, customer preferences, and pricing strategies in the hospitality industry. The project aims to enhance customer experience and operational efficiency through comprehensive data-driven insights.
