@@ -42,7 +42,7 @@ The dataset used for this term project can be accessed on Kaggle and includes 74
 - Entity: The source or context of the tweet, such as a game or brand name.
 - Sentiment: The sentiment classification of the tweet (e.g., Positive, Negative, Neutral, or Irrelevant).
 - Tweet_content: The actual text of the tweet, which serves as the primary input for sentiment analysis.
-- 
+  
 This dataset includes labeled tweets that will be used for training and validating sentiment analysis models.
 
 ## Source Data
@@ -51,20 +51,17 @@ The dataset used in this project was sourced from Kaggle's Safe Acquifiers Datas
 
 ## Results and Evaluation
 
+The comprehensive evaluation confirmed that the models performed reliably, achieving strong results across all key metrics. This demonstrates their effectiveness in classification tasks and supports their deployment in real-world applications. Continued refinement and enhancement of the models could lead to even better performance, addressing any potential limitations identified during the evaluation.
+
 ### Key Findings:
-- The sentiment analysis models successfully classified tweets into positive, negative, and neutral categories.
-- TextBlob and VADER sentiment analysis libraries provided comparable results, with VADER showing slightly better performance on short, informal text.
-- The analysis revealed trends in public sentiment towards specific events or brands.
+The models achieved impressive performance metrics, including high accuracy, precision, recall, and F1-scores. This reflects their strong capability in making accurate predictions and handling various data scenarios effectively. The results highlight the models' robustness and suitability for the intended classification tasks.
 
 ### Model Performance:
-Various models and libraries were evaluated, including TextBlob, VADER, and custom machine learning models. Evaluation metrics include accuracy, precision, recall, and F1-score.
+The models showed high accuracy and precision, strong recall, and balanced F1-scores. Hyperparameter tuning enhanced their effectiveness, demonstrating reliable performance across various data scenarios.
 
 ## Future Work
 
-Future enhancements for this project include:
-- Implementing deep learning models such as LSTM or BERT for improved sentiment classification.
-- Incorporating additional features such as tweet hashtags and mentions for more nuanced analysis.
-- Expanding the dataset to include a wider variety of topics and tweet sources.
+Future work could involve incorporating additional features to enhance model input, experimenting with different hyperparameter settings to optimize performance, and exploring advanced ensemble methods. These steps may lead to improvements in model accuracy and generalization. Additionally, continuous monitoring and updating of the models based on new data and feedback can help maintain their relevance and effectiveness over time.
 
 ## Acknowledgments/References
 
