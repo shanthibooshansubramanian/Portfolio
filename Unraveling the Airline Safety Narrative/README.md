@@ -63,6 +63,3 @@ This project was developed as part of a learning exercise by Shanthibooshan Subr
 - [Accidents and Fatalities Per Year](https://docs.google.com/spreadsheets/d/1SDp7p1y6m7N5xD5_fpOkYOrJvd68V7iy6etXy2cetb8/edit#gid=1448957446)
 - [Airline Safety Data](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
 - [Fatality Analysis Reporting System](https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2020/National/)
-
-
-
