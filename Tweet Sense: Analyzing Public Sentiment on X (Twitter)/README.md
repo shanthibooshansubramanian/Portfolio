@@ -73,4 +73,3 @@ Future work will include integrating advanced models like LSTM and BERT to bette
 - [Medium - X (Twitter) Sentiment Analysis](https://medium.com/@ubaidhaina/x-twitter-sentiment-analysis-05decd00a29f)
 - [ResearchGate - X (Twitter) Sentiment Analysis](https://www.researchgate.net/publication/358439871_X_Twitter_Sentiment_Analysis_using_Natural_Language_Processing)
 - [Twitter](https://twitter.com)
-
