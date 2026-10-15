@@ -93,6 +93,7 @@ Special thanks to the following resources:
 - [FraudLabs Pro](https://www.fraudlabspro.com/)
 - [DataCamp](https://app.datacamp.com/)
 - [Synthetic Payments Data](https://datahub.io/machine-learning/creditcard/datapackage.json')
+- 
 
 
 
