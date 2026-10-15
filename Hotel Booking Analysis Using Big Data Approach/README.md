@@ -76,8 +76,7 @@ The dataset used in this project was sourced from [Kaggle's Hotel Bookings Datas
 - Integrate Internet of Things (IoT) data for real-time monitoring of hotel operations.
 - Expand data sources to include social media and web traffic for comprehensive market analysis.
 
-
-## Acknowledgments/References
+# Acknowledgments/References
 
   - [Kaggle](https://www.kaggle.com)
   - [365 Data Science](https://365datascience.com/)
