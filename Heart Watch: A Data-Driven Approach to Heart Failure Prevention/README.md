@@ -79,5 +79,3 @@ This project acknowledges the contributions of various datasets and research stu
 - [BioMed Central Heart Failure Dataset](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5)
 - [NHLBI Heart Failure Research](https://www.nhlbi.nih.gov/research/heart-failure)
 - [AHA Journals Heart Failure Research](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.121.318172)
-
-
