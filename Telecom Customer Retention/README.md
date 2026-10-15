@@ -69,8 +69,6 @@ Future enhancements for this project include:
 - [Kaggle - CUSTOMER CHURN PREDICTION 📈](https://www.kaggle.com)
 - [Data World](https://www.dataworld.com/)
 - [365 Data Science](https://365datascience.com/)
-- [Towards Data Science](https://towardsdatascience.com)
-
-  
+- [Towards Data Science](https://towardsdatascience.com) 
 
 
